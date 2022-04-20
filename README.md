@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Project Link
+## Project Demo Link
 
 [React-Restaurant-Webapp](https://react-restaurant-webapp.netlify.app/)
 
